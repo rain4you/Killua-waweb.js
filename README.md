@@ -53,7 +53,7 @@ Untuk request atau report bug bisa open issue [Issues](https://github.com/rain4y
 ## 📝 Cloning this repo
 ```cmd
 > git clone https://github.com/rain4you/killua-waweb.js/
-> cd hisoka-waweb.js
+> cd killua-waweb.js
 ```
 
 # install semua module
