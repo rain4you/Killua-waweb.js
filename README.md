@@ -1,6 +1,6 @@
 ![Killua-Md]
 <div align="center">
-<img src="[(https://user-images.githubusercontent.com/105019762/177053585-eaf92dca-92fa-435a-8f55-bc7b2df16cf0.jpg)" width="150" height="150" border="0" alt="PFFP">
+<img src="[(https://user-images.githubusercontent.com/105019762/177053585-eaf92dca-92fa-435a-8f55-bc7b2df16cf0.jpg)"
 
 
 
