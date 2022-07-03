@@ -1,6 +1,5 @@
 
 <div align="center">
-<img src="[(https://user-images.githubusercontent.com/105019762/177053585-eaf92dca-92fa-435a-8f55-bc7b2df16cf0.jpg)"
 
 
 
